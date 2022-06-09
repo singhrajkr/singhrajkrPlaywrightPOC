@@ -1,0 +1,30 @@
+{
+  "name": "singhrajkrplaywrightpoc",
+  "version": "1.0.0",
+  "description": "Playwright POC",
+  "main": "index.js",
+  "scripts": {
+    "load-env": "node -r dotenv/config",
+    "single-test": "playwright test tests/todo-page.spec.ts --config=playwright.config.ts",
+    "debug": "playwright test --debug",
+    "regression": "playwright test --config=playwright.config.ts",
+    "webTests": "playwright test --config=playwright.config.ts --grep @Web",
+    "apiTests": "playwright test --config=playwright.config.ts --grep @API",
+    "test-headed": "playwright test --headed --reporter=line --config=playwright.config.ts",
+    "generate-code": "playwright codegen wikipedia.org",
+    "view-trace": "playwright show-trace trace.zip",
+    "html-report": "playwright show-report",
+    "allure-report": "allure generate ./allure-results --clean",
+    "open-allure-report": "allure open ./allure-report"
+  },
+  "keywords": [],
+  "author": "Raj Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.22.0",
+    "@types/node": "^17.0.33",
+    "allure-commandline": "^2.17.2",
+    "allure-playwright": "^2.0.0-beta.16",
+    "dotenv": "^16.0.1"
+  }
+}

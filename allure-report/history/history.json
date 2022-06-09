@@ -1,0 +1,477 @@
+{
+  "Regression Test Suite example.spec.ts Routing should highlight the currently applied filter" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "518edc6eae5623a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644784373,
+        "stop" : 1652644785295,
+        "duration" : 922
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Routing should allow me to display active items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e3387d49883aebd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644780113,
+        "stop" : 1652644781069,
+        "duration" : 956
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts New Todo should show #main and #footer when items added" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1cd0363a2f50c595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644762673,
+        "stop" : 1652644763400,
+        "duration" : 727
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Counter should display the current number of todo items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a83b20b9f01ce60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644774828,
+        "stop" : 1652644776023,
+        "duration" : 1195
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts New Todo should clear text input field when an item is added" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e59f9fa03e6714f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644761081,
+        "stop" : 1652644761814,
+        "duration" : 733
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Item should allow me to un-mark items as complete" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "768deeed0714a592",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644767442,
+        "stop" : 1652644768372,
+        "duration" : 930
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Clear completed button should display the correct text" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e2be73798050f9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644776025,
+        "stop" : 1652644777269,
+        "duration" : 1244
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Routing should respect the back button" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27e0643e1d805bc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644781070,
+        "stop" : 1652644782201,
+        "duration" : 1131
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Mark all as completed should allow me to clear the complete state of all items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f54a8fbf8e0ee292",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644764430,
+        "stop" : 1652644765413,
+        "duration" : 983
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Editing should cancel edits on escape" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ff776ca52a1b6f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644773789,
+        "stop" : 1652644774827,
+        "duration" : 1038
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Editing should hide other controls when editing" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8dd2d5a0512d7024",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644769323,
+        "stop" : 1652644770196,
+        "duration" : 873
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Persistence should persist its data" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb457e77698d94c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644779115,
+        "stop" : 1652644780112,
+        "duration" : 997
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Mark all as completed should allow me to mark all items as completed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad210aa70af70e76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644763401,
+        "stop" : 1652644764429,
+        "duration" : 1028
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Routing should allow me to display completed items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae6e936c16daf330",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644782202,
+        "stop" : 1652644783231,
+        "duration" : 1029
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Mark all as completed complete all checkbox should update state when items are completed / cleared" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74faa86e008db759",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644765413,
+        "stop" : 1652644766497,
+        "duration" : 1084
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts New Todo should allow me to add todo items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12999e7887be1678",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644755482,
+        "stop" : 1652644761079,
+        "duration" : 5597
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Editing should remove the item if an empty text string was entered" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b381cc7d937c64bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644772031,
+        "stop" : 1652644773788,
+        "duration" : 1757
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Editing should trim entered text" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "acbda9829e5218fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644771152,
+        "stop" : 1652644772030,
+        "duration" : 878
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Routing should allow me to display all items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c5008b77bd1ee3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644783232,
+        "stop" : 1652644784372,
+        "duration" : 1140
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts New Todo should append new items to the bottom of the list" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5604a34527935e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644761815,
+        "stop" : 1652644762673,
+        "duration" : 858
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Editing should save edits on blur" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b154e6f1e5f1588",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644770196,
+        "stop" : 1652644771151,
+        "duration" : 955
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Clear completed button should remove completed items when clicked" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5aca9617289d0846",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644777270,
+        "stop" : 1652644778155,
+        "duration" : 885
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Clear completed button should be hidden when there are no items that are completed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69d5bec24f856836",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644778156,
+        "stop" : 1652644779114,
+        "duration" : 958
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Item should allow me to mark items as complete" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b4d9f28d550473c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644766498,
+        "stop" : 1652644767441,
+        "duration" : 943
+      }
+    } ]
+  },
+  "Regression Test Suite example.spec.ts Item should allow me to edit an item" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41825cb7a8fc3e99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652644768373,
+        "stop" : 1652644769323,
+        "duration" : 950
+      }
+    } ]
+  }
+}
